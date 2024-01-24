@@ -34,3 +34,16 @@ body {
   --br-8xs-7: 4.7px;
   --br-4xl-5: 23.5px;
 }
+
+.landingpage-2 {
+
+  width:100%;
+}
+
+@media (max-width:600px) {
+
+  .landingpage-2 {
+
+    width:100%;
+  }
+}
